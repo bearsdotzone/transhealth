@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bearsdotzone/transhealth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Safety
+Please take the advice on this site with a grain of salt. I am not a medical professional. Seek medical care when necessary, the resources section of this site attempts to provide a list of affirming caregivers. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{% assign date = '2020-04-13T10:20:00Z' %}
+
+- Original date - {{ date }}
+- With timeago filter - {{ date | timeago }}
+
+## Affirming Resources
+
+## Why
+The youth of Texas are under attack. In 2022 Attorney General Ken Paxton of Texas released a horrifying [opinion](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files/opinion/2022/kp-0401.pdf) equating gender affirmative healthcare with child abuse and Governor Greg Abbott of Texas [directed](https://gov.texas.gov/uploads/files/press/O-MastersJaime202202221358.pdf) the Texas Department of Family and Protective Services to investigate reports of gender affirming care as abuse. Paxton's opinion and Abbott's direction are transphobic bullshit. This resource exists to educate people on obtaining puberty blockers while minimizing the risk of being reported.
+
+### The Law
+Puberty blockers are not a controlled substance. Puberty blockers are not available over the counter in the United States. You can still get puberty blockers though, usually from other territories.
+
+## DIY
 
 ### Markdown
 
